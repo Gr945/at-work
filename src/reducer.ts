@@ -44,7 +44,6 @@ export const counterSlice = createSlice({
         }
     }
 })
-
 export const { addUsers, addUser, addArchiv, userDelete, userActive, changeUser } = counterSlice.actions
 
 export const selectCount = (state: RootState) => state.usersReducer
