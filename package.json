@@ -2,8 +2,9 @@
   "name": "at-work",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gr945.github.io/at-work",
+  "homepage": "https://gr945.github.io/at-work/",
   "dependencies": {
+    "@types/react-router-dom": "^5.3.3",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@mui/icons-material": "^5.15.20",
@@ -52,8 +53,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@types/react-router-dom": "^5.3.3"
   }
 }
